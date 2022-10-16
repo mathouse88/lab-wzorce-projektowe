@@ -1,0 +1,12 @@
+ZADANIE
+
+Mamy klasę Osoba której właściwości to imię, nazwisko, płeć, adres zamieszkania, wiek
+Na adres zamieszkania składa się: Miasto , ulica , numer domu , kod pocztowy
+Stwórz powyższą hierarchię obiektów oraz budowniczych dla nich
+Podpowiedź: będziesz musial mieć dwóch budowniczych ( jakich ? )
+
+
+https://nullpointerexception.pl/3-najpopularniejsze-wzorce-projektowe/
+
+
+https://refactoring.guru/pl/design-patterns/builder/java/example
